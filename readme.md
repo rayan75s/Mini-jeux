@@ -9,19 +9,8 @@ Bienvenue sur mon projet **Mini-Jeux** ! Ce projet regroupe plusieurs jeux déve
 | Jeu | Description |
 |-----|-------------|
 | ⚔️ RPG Aventure | Explore un monde, bats des monstres, ouvre des coffres et traverse des portails |
-| 🐍 Snake | Mange les fruits sans te mordre la queue |
-| 🧠 Memory | Retrouve toutes les paires de cartes |
-| 🎯 2048 | Additionne les tuiles jusqu'à 2048 |
-| 🎮 Simon | Répète la séquence de couleurs |
-| ❌ Tic-Tac-Toe | Morpion contre l'ordinateur |
-| ✂️ Pierre-Feuille-Ciseaux | Bats l'ordinateur ! |
-| 🗺️ Labyrinthe | Trouve la sortie |
-| 🦘 Doodle Jump | Monte le plus haut possible |
-
----
 
 ## 🕹️ Comment jouer au RPG Aventure
-
 ### Contrôles
 - **Flèches du clavier** ou **boutons** à l'écran pour se déplacer
 - **Touche P** ou bouton **Potion** pour se soigner
